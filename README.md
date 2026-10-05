@@ -1,14 +1,15 @@
 <div align="center">
 
-<!-- SYSTEM BOOT -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00F7FF&height=220&section=header&text=GABRIEL%20CÂNDIDO&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=INITIALIZING%20DEVELOPER%20SYSTEM...&descAlignY=55&descSize=16" width="100%"/>
+<!-- ═════════════════════ SYSTEM HEADER ═════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=%3E+SYSTEM+BOOT+COMPLETE...;%3E+Hello%2C+World!+I'm+Gabriel+%F0%9F%91%8B;%3E+Java+%26+Python+Student;%3E+Building+my+future%2C+one+line+at+a+time.;%3E+Searching+for+my+first+opportunity..." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0D1117,100:00F7FF&height=220&section=header&text=GABRIEL%20CÂNDIDO&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=INITIALIZING%20BACK-END%20DEVELOPER%20SYSTEM...&descAlignY=55&descSize=16" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+SYSTEM+BOOT+COMPLETE...;%3E+Hello%2C+World!+I'm+Gabriel+%F0%9F%91%8B;%3E+Future+Back-End+Developer;%3E+Java+%26+Python+Student;%3E+Learning.+Building.+Evolving.;%3E+Searching+for+my+first+opportunity..." alt="Typing SVG"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/STATUS-LEARNING-00F7FF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/FOCUS-BACKEND-7C3AED?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/FOCUS-BACK--END-7C3AED?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/LEVEL-BEGINNER-00FF9C?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
@@ -17,44 +18,51 @@
 
 ## `> SYSTEM.PROFILE`
 
-```yaml id="tm9yfh"
+```yaml
 name: Gabriel Cândido
-role: Developer in Training
+username: gabrielcand
+
+role: Back-end Developer in Training
 status: Learning & Building
-experience: Beginning my journey
 
 current_focus:
   - Programming Logic
   - Java
   - Python
+  - Back-end Development
 
-goal: First opportunity in technology
+mission:
+  - Build a strong programming foundation
+  - Learn Back-end Development
+  - Develop real projects
+  - Get my first opportunity in technology
 ```
 
-### 👨‍💻 Sobre Mim
+### `> ABOUT_ME.md`
 
-Olá! Eu sou **Gabriel Cândido**.
+Olá! 👋 Eu sou **Gabriel Cândido**.
 
-Estou iniciando minha jornada no mundo da programação e atualmente estudo **lógica de programação, Java e Python**.
+Sou estudante de programação com foco em **desenvolvimento Back-end**, atualmente construindo minha base em **Lógica de Programação, Java e Python**.
 
-Ainda estou construindo minha experiência, praticando fundamentos e desenvolvendo meus primeiros projetos.
+Estou no início da minha jornada na tecnologia, praticando os fundamentos e desenvolvendo meus primeiros projetos.
 
-Meu objetivo é evoluir constantemente, construir uma base sólida em desenvolvimento de software e conquistar minha **primeira oportunidade profissional na área de tecnologia**.
+Meu objetivo é evoluir constantemente como desenvolvedor Back-end, adquirir experiência através da prática e conquistar minha **primeira oportunidade profissional na área de tecnologia**.
 
-```java id="8zgn1j"
+```java
 public class Gabriel {
 
     String[] learning = {
+        "Programming Logic",
         "Java",
         "Python",
-        "Programming Logic"
+        "Back-end Development"
     };
 
-    String currentMission = "Become a Software Developer";
+    String currentMission = "Become a Back-end Developer";
 
     boolean lookingForFirstOpportunity = true;
 
-    public void code() {
+    public void journey() {
         learn();
         practice();
         build();
@@ -70,7 +78,9 @@ public class Gabriel {
 
 <div align="center">
 
-### Atualmente estudando
+### 📚 Atualmente estudando
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=java,python&theme=dark" />
 
@@ -83,17 +93,17 @@ public class Gabriel {
 
 ---
 
-## `> TOOLS.config`
+## `> DEVELOPMENT_TOOLS.config`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00F7FF"/>
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 
 </div>
 
@@ -101,18 +111,17 @@ public class Gabriel {
 
 ## `> CURRENT_MISSION.log`
 
-```console id="1fjgl5"
-gabriel@gabrielcand:~$ systemctl status learning
+```console
+gabriel@gabrielcand:~$ ./backend_journey.sh
 
-● developer-training.service
-     Loaded: loaded
-     Active: ACTIVE
+[ SYSTEM ] Back-end developer training initialized...
 
-[████████░░░░░░░░░░░░] Programming Logic
-[██████░░░░░░░░░░░░░░] Java
-[█████░░░░░░░░░░░░░░░] Python
-[██░░░░░░░░░░░░░░░░░░] Projects
-[░░░░░░░░░░░░░░░░░░░░] Professional Experience
+Programming Logic    ████████░░░░░░░░░░░░  LEARNING
+Java                 ██████░░░░░░░░░░░░░░  LEARNING
+Python               █████░░░░░░░░░░░░░░░  LEARNING
+Git & GitHub         ███░░░░░░░░░░░░░░░░░  LEARNING
+Back-end             ██░░░░░░░░░░░░░░░░░░  STARTING
+Projects             ██░░░░░░░░░░░░░░░░░░  BUILDING
 
 > CURRENT OBJECTIVES
 
@@ -120,11 +129,54 @@ gabriel@gabrielcand:~$ systemctl status learning
 [02] Improve my Java knowledge
 [03] Improve my Python knowledge
 [04] Learn Git & GitHub
-[05] Build real-world projects
-[06] Create a strong developer portfolio
-[07] Get my first opportunity in tech
+[05] Learn Back-end Development
+[06] Build real-world projects
+[07] Create a strong developer portfolio
+[08] Get my first opportunity in technology
 
-STATUS: IN PROGRESS...
+> STATUS: JOURNEY IN PROGRESS...
+```
+
+---
+
+## `> BACKEND_ROADMAP.sys`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/BACK--END-ROADMAP-7C3AED?style=for-the-badge&labelColor=0D1117"/>
+
+</div>
+
+```text
+                    BACK-END JOURNEY
+
+                         START
+                           │
+                           ▼
+                 Programming Logic
+                           │
+                    ┌──────┴──────┐
+                    ▼             ▼
+                  Java          Python
+                    │             │
+                    └──────┬──────┘
+                           ▼
+                      Git & GitHub
+                           │
+                           ▼
+                       Databases
+                           │
+                           ▼
+                          APIs
+                           │
+                           ▼
+                     Back-end Apps
+                           │
+                           ▼
+                    Real Projects
+                           │
+                           ▼
+                FIRST OPPORTUNITY 🚀
 ```
 
 ---
@@ -133,19 +185,30 @@ STATUS: IN PROGRESS...
 
 <div align="center">
 
-<a href="https://github.com/gabrielcand?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielcand&repo=SEU_REPOSITORIO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=C9D1D9"/>
-</a>
-
-<a href="https://github.com/gabrielcand?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielcand&repo=SEU_REPOSITORIO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=C9D1D9"/>
-</a>
+### 🚧 Building something...
 
 </div>
 
-> 🚧 **Projetos em desenvolvimento**
->
-> Estou construindo meus primeiros projetos enquanto avanço nos estudos de Java, Python e lógica de programação.
+Atualmente estou desenvolvendo meus **primeiros projetos** enquanto avanço nos estudos de programação e desenvolvimento Back-end.
+
+Em breve, esta seção receberá projetos desenvolvidos em:
+
+```text
+☕ Java
+🐍 Python
+⚙️ Back-end
+🧠 Programming Logic
+```
+
+> Cada projeto representa mais um passo na minha evolução como desenvolvedor.
+
+<div align="center">
+
+<a href="https://github.com/gabrielcand?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
+
+</div>
 
 ---
 
@@ -153,9 +216,9 @@ STATUS: IN PROGRESS...
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=C9D1D9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcand&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcand&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"/>
 
 </div>
 
@@ -163,7 +226,7 @@ STATUS: IN PROGRESS...
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gabrielcand&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=7C3AED&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img src="https://streak-stats.demolab.com?user=gabrielcand&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -173,31 +236,35 @@ STATUS: IN PROGRESS...
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielcand&bg_color=0D1117&color=00F7FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielcand&theme=tokyo-night&hide_border=true&area=true"
+width="100%"
+alt="Gabriel's GitHub Activity Graph"
+/>
 
 </div>
 
----
-
-## `> ACHIEVEMENTS.unlock`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gabrielcand&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
+> `Monitoring developer activity...`
 
 ---
 
-## `> CONTRIBUTION_SNAKE.exe`
+## `> FUTURE_TECH.sys`
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielcand/gabrielcand/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielcand/gabrielcand/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielcand/gabrielcand/output/github-contribution-grid-snake.svg">
-</picture>
+### 🎯 Próximos passos na jornada Back-end
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=spring,mysql,postgres,docker&theme=dark"/>
+
+<br><br>
+
+`Spring Boot` • `SQL` • `MySQL` • `PostgreSQL` • `APIs REST` • `Docker`
+
+<br><br>
+
+> **Next technologies are loading...**
 
 </div>
 
@@ -207,12 +274,8 @@ STATUS: IN PROGRESS...
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+<a href="https://www.linkedin.com/in/gabriel-c%C3%A2ndido-4a5a01408/">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
 </a>
 
 <a href="https://github.com/gabrielcand">
@@ -225,24 +288,28 @@ STATUS: IN PROGRESS...
 
 <div align="center">
 
-### `> FINAL_MESSAGE`
+## `> SYSTEM_MESSAGE`
 
-```text id="xq8cdj"
-┌──────────────────────────────────────────────┐
-│                                              │
-│   "Every expert was once a beginner."        │
-│                                              │
-│   SYSTEM STATUS: LEARNING                    │
-│   NEXT LEVEL: LOADING...                     │
-│                                              │
-└──────────────────────────────────────────────┘
+```text
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║          EVERY EXPERT WAS ONCE A BEGINNER          ║
+║                                                    ║
+║          SYSTEM STATUS: LEARNING                   ║
+║          CURRENT MODE: BUILDING                    ║
+║          TARGET: BACK-END DEVELOPER                ║
+║          NEXT LEVEL: LOADING...                    ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
 ```
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=gabrielcand&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
 <br><br>
 
-**Thanks for visiting my profile.**
+### Thanks for visiting my profile! 👾
 
 `< Keep Learning • Keep Building • Keep Evolving />`
 
